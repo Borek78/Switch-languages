@@ -3,7 +3,6 @@ div.languages {
   margin-right: auto;
   width: 250px;
   text-align: center;
-  border: 1px solid blue;
 }
 
 a.language {
@@ -23,8 +22,8 @@ div.active {
   border-bottom: 3px solid #b7542d;
 }
 
-.left,
-.right {
+.czech,
+.english {
   display: inline-block;
 }
 
